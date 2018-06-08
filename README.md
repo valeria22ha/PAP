@@ -4,7 +4,7 @@ Sistema para el manejo de ausencias, pago por pieza y planeacion de los empleado
 según las necesidades que presenten estas. 
 
 # Autores
-Leonardo Brenes Muñoz 
-Alejandro Guerrero Aguilar 
-Valeria Herrera Agüero 
+Leonardo Brenes Muñoz, 
+Alejandro Guerrero Aguilar, 
+Valeria Herrera Agüero, 
 Juan Esteban Quesada Ramirez 
